@@ -1,0 +1,29 @@
+.lead {
+  /* padding: 0 48px; */
+  /* max-width: calc(100% - 48px*2); */
+  margin: 0 auto;
+  max-width: 984px;
+}
+
+/* @media screen and (max-width: 1279px) {
+  .lead {
+    max-width: 928px;
+  }
+} */
+
+@media screen and (max-width: calc(1024px + 48px*2)) {
+  .lead {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media screen and (max-width: calc(768px + 48px*2)) {
+  .lead {
+    /* padding: 0; */
+    /* max-width: 100%; */
+    /* width: 100%; */
+    max-width: 768px;
+    padding: 0;
+  }
+}
