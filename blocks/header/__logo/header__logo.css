@@ -1,8 +1,15 @@
 .header__logo {
   display: block;
-  height: 100%;
-  width: 100%;
+  width: 176px;
+  height: 52px;
   background-image: url(../../../images/header-logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+@media screen and (max-width: 424px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
 }
