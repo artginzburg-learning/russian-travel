@@ -1,3 +1,19 @@
 .intro {
-  
+  margin: 0 auto;
+  max-width: 984px;
+  padding: 0 48px;
+}
+
+@media screen and (max-width: calc(768px + 48px*2)) {
+  .intro {
+    max-width: 768px;
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: calc(424px + 24px*2)) {
+  .intro {
+    max-width: 424px;
+    padding: 0 16px;
+  }
 }
