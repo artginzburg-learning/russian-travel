@@ -1,5 +1,5 @@
 .lead__caption {
-  display: inline-block;
+  /* display: inline-block; */
   font-size: 10px;
   line-height: 14px;
 
@@ -7,17 +7,18 @@
 
   text-transform: uppercase;
 
-  margin-top: 8px;
+  margin: 8px auto 0;
+  max-width: calc(100vw - 16px*2);
 }
 
 @media screen and (max-width: calc(768px + 24px*2)) {
   .lead__caption {
-    margin-left: 24px;
+    width: calc(100vw - 24px*2);
   }
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: calc(424px + 24px*2)) {
   .lead__caption {
-    margin-left: 16px;
+    width: 424px;
   }
 }
