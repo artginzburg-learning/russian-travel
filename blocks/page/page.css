@@ -4,9 +4,3 @@
   text-rendering: optimizeLegibility;
   color: #fff;
 }
-
-@supports (font-variation-settings: normal) {
-  .page {
-    font-family: 'Inter var', sans-serif;
-  }
-}
