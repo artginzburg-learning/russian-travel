@@ -5,7 +5,6 @@
   justify-content: center;
   box-sizing: border-box;
   grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
-  padding-top: 92px;
   margin: 0 auto;
 }
 
@@ -22,7 +21,6 @@
     /* max-width: 720px; */
     grid-template-columns: repeat(auto-fill, minmax(352px, 1fr));
     gap: 16px;
-    padding-top: 88px;
   }
 }
 
@@ -31,6 +29,5 @@
     max-width: 288px;
     grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
     gap: 12px;
-    padding-top: 64px;
   }
 }
