@@ -5,6 +5,13 @@
   background-image: url(../../../images/header-logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
+
+  transition-property: opacity;
+  transition-duration: .2s;
+}
+
+.header__logo:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 424px) {

@@ -4,9 +4,6 @@
   font-size: 18px;
   line-height: 163%;
 }
-.place__paragraph:first-child {
-  margin-top: 0;
-}
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
