@@ -9,7 +9,7 @@
   margin-top: 32px;
 
   max-width: calc(100% - 16px*2);
-  width: 560px;
+  width: 360px;
 }
 
 @media screen and (max-width: 767px) {
