@@ -5,4 +5,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   color: #fff;
+
+  max-width: 1280px;
+  margin: 0 auto;
 }
