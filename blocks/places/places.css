@@ -11,21 +11,15 @@
   }
 }
 
-@media screen and (max-width: calc(424px + 24px*2)) {
-  .places {
-    max-width: 424px;
-    padding: 0 16px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .places {
     margin: 88px auto;
   }
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 767px) {
   .places {
     margin: 64px auto;
+    padding: 0;
   }
 }
