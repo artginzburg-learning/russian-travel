@@ -17,3 +17,10 @@
 
 - [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 - [Чеклист](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
+
+## Планы по доработке
+
+- [ ] Сгруппировать брейкпоинты
+- [ ] Выделить компоненты со стилевым и логически похожим оформлением в одну БЭМ-сущность: блок или элемент
+  > Например: 1. lead, intro, places; 2. header, photo-grid, footer.
+- [ ] Избавиться от вычислений через `calc()` в медиазапросах, сложных комбинаций width, max-width и padding (В данный момент таким образом реализуется плавное изменение размера страницы. Разумеется, работает безотказно, глаз радуется, но стоит найти способ попроще).
