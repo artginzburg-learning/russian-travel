@@ -2,6 +2,8 @@
 
 > Страница, воодушевляющая на путешествие по России
 
+<kbd>[Reviewed and accepted version of the project](https://github.com/artginzburg/russian-travel/tree/review-final)</kbd>
+
 ## Описание
 
 Третья проектная работа в рамках обучения [Веб-разработке](https://praktikum.yandex.ru/web/) в [Яндекс.Практикуме](https://praktikum.yandex.ru/)
