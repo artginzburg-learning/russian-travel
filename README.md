@@ -2,7 +2,7 @@
 
 > Страница, воодушевляющая на путешествие по России
 
-<kbd>[Reviewed and accepted version of the project](https://github.com/artginzburg/russian-travel/tree/review-final)</kbd>
+Project 3: <kbd>[Reviewed and accepted version of the project](https://github.com/artginzburg/russian-travel/tree/project-3_final)</kbd>
 
 ## Описание
 
