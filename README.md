@@ -26,3 +26,14 @@ Project 3: <kbd>[Reviewed and accepted version of the project](https://github.co
 - [ ] Выделить компоненты со стилевым и логически похожим оформлением в одну БЭМ-сущность: блок или элемент
   > Например: 1. lead, intro, places; 2. header, photo-grid, footer.
 - [ ] Избавиться от вычислений через `calc()` в медиазапросах, сложных комбинаций width, max-width и padding (В данный момент таким образом реализуется плавное изменение размера страницы. Разумеется, работает безотказно, глаз радуется, но стоит найти способ попроще).
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/artginzburg/how-to-learn"><-- Prev. </a>
+  &nbsp;
+  <code><a href="https://github.com/artginzburg/yandex.praktikum-portfolio">Portfolio</a></code>
+  &nbsp;
+  <a href="https://github.com/artginzburg/mesto">Next --></a>
+</p>
