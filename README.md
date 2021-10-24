@@ -37,3 +37,5 @@ Project 3: <kbd>[Reviewed and accepted version of the project](https://github.co
   &nbsp;
   <a href="https://github.com/artginzburg/mesto">Next --></a>
 </p>
+
+![](./resources/preview.png)
